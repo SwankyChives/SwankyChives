@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @SwankyChives
-- 👀 I’m interested in making short simple games.
-- 🌱 I’m currently learning C# in Unity.
 - 📫 Reach me on Discord: Swanky#1652
 
 <!---
